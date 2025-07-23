@@ -1,0 +1,28 @@
+:root > * {
+  --md-primary-fg-color: #FFDBDB;
+}
+
+.md-header__topic,
+.md-header__topic > a,
+.md-header__title,
+.md-header__topic:first-child,
+.md-header__button.md-logo {
+  color: black !important;
+}
+
+.md-header__button svg {
+  fill: black !important;
+}
+
+.md-tabs__link {
+  color: black !important;
+}
+
+.md-typeset a {
+  color: #945034;
+}
+
+.md-nav__link--active {
+  color: #000 !important;
+  font-weight: 600;
+}

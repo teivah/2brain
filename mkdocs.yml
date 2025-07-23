@@ -1,0 +1,44 @@
+site_name: Second Brain
+site_url: https://2brain.dev
+repo_name: teivah/2brain.dev
+theme:
+  name: material
+  favicon: img/icon.png
+  icon:
+    logo: material/coffee
+    admonition:
+      tip: material/format-quote-close
+  custom_dir: overrides
+  features:
+  - navigation.expand
+  - navigation.sections
+  - navigation.instant
+  - navigation.instant.prefetch
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - toc.integrate
+  palette:
+  - scheme: default
+    primary: custom
+nav:
+- index.md
+- template.md
+plugins:
+- glightbox
+extra:
+  generator: false
+  analytics:
+    provider: google
+    property: G-YK142LCQX3
+markdown_extensions:
+- md_in_html
+- attr_list
+- admonition
+- pymdownx.details
+- pymdownx.superfences
+- pymdownx.emoji:
+    emoji_index: !!python/name:material.extensions.emoji.twemoji
+    emoji_generator: !!python/name:material.extensions.emoji.to_svg
+copyright: Copyright &copy; 2016 - 2024 Teiva Harsanyi
+extra_css:
+- stylesheets/extra.css
