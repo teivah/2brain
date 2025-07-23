@@ -14,7 +14,7 @@ For over a decade, I failed miserably at keeping **an effective note-taking syst
 
 The result was a messy system that didn’t scale. I kept losing knowledge, and it made learning inefficient. When we read or watch a great resource but don’t capture what we learned from it, chances are high that within a few months or even weeks, that knowledge fades away. That’s what kept happening to me.
 
-**Then I discovered the *Second Brain* method and it changed everything for me**.
+**Then I discovered the [*Second Brain*](https://www.goodreads.com/book/show/59616977-building-a-second-brain) method and it changed everything for me**.
 
 ## ❓ What's a Second Brain?
 
