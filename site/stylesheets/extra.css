@@ -1,5 +1,5 @@
 :root > * {
-  --md-primary-fg-color: #FFDBDB;
+  --md-primary-fg-color: #087671;
 }
 
 .md-header__topic,
@@ -15,11 +15,15 @@
 }
 
 .md-tabs__link {
-  color: black !important;
+  color: white !important;
 }
 
 .md-typeset a {
-  color: #945034;
+  color: #087671;
+}
+
+.md-typeset a:hover {
+  color: #87082D; /* Hover color */
 }
 
 .md-nav__link--active {

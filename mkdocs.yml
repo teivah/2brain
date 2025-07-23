@@ -22,7 +22,7 @@ theme:
     primary: custom
 nav:
 - index.md
-- template.md
+- notion.md
 plugins:
 - glightbox
 extra:

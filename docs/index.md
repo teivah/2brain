@@ -14,17 +14,19 @@ For over a decade, I failed miserably at keeping **an effective note-taking syst
 
 The result was a messy system that didn’t scale. I kept losing knowledge, and it made learning inefficient. When we read or watch a great resource but don’t capture what we learned from it, chances are high that within a few months or even weeks, that knowledge fades away. That’s what kept happening to me.
 
-Then I discovered the [*Second Brain*](https://www.goodreads.com/book/show/59616977-building-a-second-brain) method. **It changed everything**.
+**Then I discovered the *Second Brain* method and it changed everything for me**.
 
-## ❓ What is a Second Brain?
+## ❓ What's a Second Brain?
 
-Our brain isn’t built to remember everything.  It’s great at thinking, solving, reacting but it forgets what we don’t actively use. That’s not a bug, it’s how it stays efficient. The problem is: we’re constantly learning. Reading. Watching. Thinking.  And unless we capture that knowledge, most of it fades away.
+Our brain is great for processing ongoing tasks, but it’s not meant to retain everything. Over time, it lets go of unused ideas to make room for more relevant ones. This process, referred to as synaptic pruning, helps us adapt, but it also means we lose what we don’t externalize.
 
-**A Second Brain gives us a place to store it.  Not just to collect but to reuse, remix, and build on what we've already learned.**
+**That’s the promise of a second brain: a place to offload notes and thoughts, avoid losing knowledge, and build on it over time with new ideas.**
 
-For me, the breakthrough was to stop chasing the perfect note. I used to spend hours formatting, tagging, organizing… and never looked at those notes again. Now, I focus on creating a system that’s simple, imperfect, but useful.  Something that actually helps me day to day—at work, while learning, and in my personal life.
+Before switching to the second brain approach, I also struggled with my notes because I wanted everything to be perfect. That drained a lot of time and energy. For me, the breakthrough was the following:
 
-It’s not about having a beautiful archive.  It’s about building something that supports how we think.
+> We have to remember that we are not building an encyclopaedia of immaculately organized knowledge. We are building a working system. […] For that reason, you should prefer a system that is imperfect, but that continues to be useful in the real conditions of your life.
+
+I stopped chasing perfection and started building something that simply works, something that supports me every day, both at work and in my personal life.
 
 ## 🤔 Mindset
 
@@ -40,7 +42,7 @@ The problem with this approach is that most of the information that we will gain
 ![](img/info2.png)
 
 Circular flow diagram showing how "Information" turns into "Knowledge" and then into "Projects" through a feedback loop.
-That’s what a second brain gives us: a way to turn information into assets we can reinvest in the future.
+**That’s what a second brain gives us: a way to turn information into assets we can reinvest in the future.**
 
 ## 🧩 Notes as Building Blocks
 
@@ -88,11 +90,27 @@ The solution, brought again by the author, is to use the progressive summarizati
 
 - **Layer 1 - Captured notes**: Either a copy and paste or even better writing, down in our own words what we understood from it.
 
+<div align="center">
+  <img src="img/note1.png" width="800px">
+</div>
+
 - **Layer 2 - Bolded passages**: Go over the captured notes and mark in bold the most important pieces.
+
+<div align="center">
+  <img src="img/note2.png" width="800px">
+</div>
 
 - **Layer 3 - Highlighted passages**: Go over the bolded passages and highlight the most important pieces.
 
+<div align="center">
+  <img src="img/note3.png" width="800px">
+</div>
+
 - **Layer 4 - Summary**: Write down a summary.
+
+<div align="center">
+  <img src="img/note4.png" width="800px">
+</div>
 
 ## 🗂️ PARA
 
@@ -113,3 +131,7 @@ The PARA system has two main benefits.
 - **Genericity**: PARA can handle all kinds of notes. It organizes information based on how actionable it is, not what kind of information it is.
 
 As I said, I used to lack a system that was generic enough to track all my notes. Now, whether it’s a book I read, a course I followed, or a post I came across, I capture everything that resonates with me using the PARA system.
+
+## 🔧 Templates
+
+- [Notion](notion.md)

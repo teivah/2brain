@@ -4,6 +4,20 @@ title: 🔧 Notion Template
 
 # Notion Template
 
+## 🧠 Build Your Second Brain
+
+Get the template [here](https://buy.stripe.com/cNicN5fv2fJU1Z81lM4Vy03).
+
+What’s included:
+
+- ✅ A working Notion setup based on the PARA system (and more).
+
+- ✅ A proven structure for capturing, organizing, and reusing knowledge.
+
+- ✅ Lifetime template updates.
+
+- ✅ Email support.
+
 ## 🔍 Content
 
 This is the exact Second Brain system I use every day.
@@ -39,17 +53,3 @@ This is the exact Second Brain system I use every day.
 - **Thought journal**: Used to track your raw ideas, which is ≠ from curated notes.
 - **Feed**: Latest reviewed notes.
 - **Archives**: Outdates resources.
-
-## 👉 Get the Template
-
-Get the template [here](https://buy.stripe.com/cNicN5fv2fJU1Z81lM4Vy03).
-
-What’s included:
-
-- ✅ A working Notion setup based on the PARA system (and more).
-
-- ✅ A proven structure for capturing, organizing, and reusing knowledge.
-
-- ✅ Lifetime template updates.
-
-- ✅ Email support.
