@@ -1,5 +1,5 @@
 ---
-title: 🔧 Notion Template
+title: 🅽 Notion Template
 ---
 
 # Notion Template

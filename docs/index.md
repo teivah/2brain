@@ -84,33 +84,59 @@ Every time we take a note, we should ask: “_How can I make this as useful as p
 
 One way to do that is to be mindful of our future limited time. Instead of tracking dozens, if not hundreds, of lines, we should focus on finding the essence, meaning the heart and soul of what a resource is trying to communicate.
 
-But in some cases, that’s barely possible. For example, I recently read the F1: A distributed SQL database that scales whitepaper. How can we capture the essence of such a dense technical document containing so much valuable information?
+But in some cases, that’s barely possible. For example, I read the [F1: A distributed SQL database that scales](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41344.pdf) whitepaper. How can we capture the essence of such a dense technical document containing so much valuable information?
 
-The solution, brought again by the author, is to use the progressive summarization technique. In short, it’s about layering our notes:
+The solution is to use the progressive summarization technique. In short, it’s about layering our notes:
 
 - **Layer 1 - Captured notes**: Either a copy and paste or even better writing, down in our own words what we understood from it.
 
 <div align="center">
-  <img src="img/note1.png" width="800px">
+  <img src="img/note1.png" width="700px">
 </div>
 
 - **Layer 2 - Bolded passages**: Go over the captured notes and mark in bold the most important pieces.
 
 <div align="center">
-  <img src="img/note2.png" width="800px">
+  <img src="img/note2.png" width="700px">
 </div>
 
 - **Layer 3 - Highlighted passages**: Go over the bolded passages and highlight the most important pieces.
 
 <div align="center">
-  <img src="img/note3.png" width="800px">
+  <img src="img/note3.png" width="700px">
 </div>
 
 - **Layer 4 - Summary**: Write down a summary.
 
 <div align="center">
-  <img src="img/note4.png" width="800px">
+  <img src="img/note4.png" width="700px">
 </div>
+
+In the end, the note looks like this:
+
+```markdown
+# Summary
+
+- ...
+- ...
+- ...
+
+# Highlights
+
+## Architecture
+
+## Data model
+
+## Locking
+
+## Etc.
+```
+
+This approach allows me to come back later and start with a quick summary to refresh the main ideas. If I need a bit more, I can scan the bolded and highlighted passages. And if I really want to dive deeper, I can go through all the highlights.
+
+Of course, every layer is optional. If we consider that a resource only needs layers 1 and 4 of summarization, or just 1 and 2, that’s perfectly fine.
+
+**Again, our second brain should be something that works for us.**
 
 ## 🗂️ PARA
 
