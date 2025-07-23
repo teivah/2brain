@@ -6,7 +6,7 @@ title: 🔧 Notion Template
 
 ## 🧠 Build Your Second Brain
 
-Get the template [here](https://buy.stripe.com/cNicN5fv2fJU1Z81lM4Vy03).
+Get the template [here](https://buy.stripe.com/3cI3cvbeMgNY1Z8fcC4Vy04).
 
 What’s included:
 

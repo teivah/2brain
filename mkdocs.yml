@@ -5,7 +5,7 @@ theme:
   name: material
   favicon: img/icon.png
   icon:
-    logo: material/coffee
+    logo: material/lightbulb
     admonition:
       tip: material/format-quote-close
   custom_dir: overrides
