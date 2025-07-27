@@ -29,7 +29,7 @@ extra:
   generator: false
   analytics:
     provider: google
-    property: G-YK142LCQX3
+    property: G-8R5V59E6P8
 markdown_extensions:
 - md_in_html
 - attr_list
